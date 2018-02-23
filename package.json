@@ -13,7 +13,7 @@
     "url": "git+https://github.com/mariacarlinahernandez/tilt-hydrometer.git"
   },
   "bin": {
-    "tilt-send-data": "tilt-hydrometer.js"
+    "tilt-hydrometer": "tilt-hydrometer.js"
   },
   "keywords": [
     "tilt",

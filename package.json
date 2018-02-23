@@ -1,0 +1,32 @@
+{
+  "name": "tilt-hydrometer",
+  "version": "1.0.0",
+  "description": "Nodejs Command Line Utility to read Tilt Hydrometer",
+  "main": "index.js",
+  "dependencies": {
+    "bleacon": "^0.4.0",
+    "commander": "^2.14.1",
+    "request": "^2.83.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariacarlinahernandez/tilt-hydrometer.git"
+  },
+  "bin": {
+    "tilt-send-data": "tilt-hydrometer.js"
+  },
+  "keywords": [
+    "tilt",
+    "brew",
+    "beer",
+    "hydrometer",
+    "fermentation",
+    "iot"
+  ],
+  "author": "Maria Hernandez <maria@ubidots>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mariacarlinahernandez/tilt-hydrometer/issues"
+  },
+  "homepage": "https://github.com/mariacarlinahernandez/tilt-hydrometer#readme"
+}

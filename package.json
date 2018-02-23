@@ -1,6 +1,6 @@
 {
   "name": "tilt-hydrometer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Nodejs Command Line Utility to read Tilt Hydrometer",
   "main": "index.js",
   "dependencies": {
